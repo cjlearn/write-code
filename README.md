@@ -1,6 +1,6 @@
 # Write Some Code
 
-## What to expect
+## What to do
 
 In this excercise, you will write a program. That's it.
 
