@@ -4,7 +4,7 @@
 
 In this excercise, you will write a program. That's it.
 
-- You choose the language and editor
+- You choose the language, libraries, and editor
 - You decide how to verify that it works
 - You can use technical references for your language, libraries, etc
 - You _cannot_ look up how to implement the algorithm
