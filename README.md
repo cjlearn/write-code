@@ -30,5 +30,5 @@ Output from your program is also a sequence of inegers.
 
 Your program must remove all duplicates but otherwise retain the original order of
 the sequence.  For the example, the  output sequence corresponding to the example input
-is **8, 2, 5, 3, 1, 4, 7**
+is **8, 2, 5, 3, 1, 4, 7** .
 
