@@ -17,7 +17,7 @@ In this excercise, you will write a program. That's it.
 Input to your program is a possibly empty sequence of integers, in some data
 structure convenient to your language and library choices. The sequence is not
 ordered and it might contain multiple integers with the same values. You will
-never receive a non-integer so your function doesn't need to guard against invalid
+never receive a non-integer so your program does not need to guard against invalid
 input.
 
 For example, [8, 2, 5, 3, 2, 2, 1, 5, 4, 7] .
