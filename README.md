@@ -28,7 +28,6 @@ Output from your program is also a sequence of inegers.
 
 ### Behavior
 
-The sequence is not ordered and it may contain duplicates. Your program must remove
-all duplicates but otherwise retain the original order of the sequence.
+Your program must remove all duplicates but otherwise retain the original order of
+the sequence.
 
-## 
